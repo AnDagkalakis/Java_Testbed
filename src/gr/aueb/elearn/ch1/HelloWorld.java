@@ -1,5 +1,10 @@
 package gr.aueb.elearn.ch1;
 
+/**
+ * Prints Hello World on the screen
+ * @author BITER
+ */
+
 public class HelloWorld {
 
 
